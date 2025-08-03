@@ -38,3 +38,10 @@ Pipedream vous présentera un résumé détaillé de votre plan. Vous pourrez l�
 # Agent déployé
 
 Enfin, cliquez sur le bouton Déployer pour déployer votre agent afin qu’il puisse exécuter automatiquement les tâches prévues.
+
+
+<img width="1920" height="1080" alt="vlainlom" src="https://github.com/user-attachments/assets/e60c1d95-d06a-4f6e-b4d6-a0c0fc07070f" /> 
+
+<img width="5388" height="3053" alt="vlainlom" src="https://github.com/user-attachments/assets/817651d7-1d3f-4f95-975b-ffa0dcd50933" />
+
+
